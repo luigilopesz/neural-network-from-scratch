@@ -1,6 +1,6 @@
 # neural-network-from-scratch
 
-A two-layer neural network that classifies handwritten digits from the MNIST dataset — built **entirely from scratch**. No PyTorch, no TensorFlow, no Keras, no scikit-learn. Just NumPy for matrix math and the underlying calculus derived by hand: forward pass, backpropagation, and gradient descent, all written out explicitly.
+A two-layer neural network that classifies handwritten digits from the MNIST dataset — built **entirely from scratch**. No PyTorch, no TensorFlow, no Keras, no scikit-learn. Just NumPy for matrix math and calculus derived by hand: forward pass, backpropagation, and gradient descent, all written out explicitly.
 
 Shout out to Samson Zhang, who inspired me to make this project.
 
